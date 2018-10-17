@@ -1,3 +1,5 @@
+title: 小槌.net
+
 remote_theme: yous/whiteglass
 plugins:
   - jekyll-remote-theme
