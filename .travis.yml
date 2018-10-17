@@ -5,3 +5,5 @@ deploy:
   keep-history: true
   on:
     branch: master
+rvm:
+  - 2.5.1
