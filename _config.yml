@@ -7,7 +7,7 @@ defaults:
     values:
       layout: "post"
 
-remote_theme: yous/whiteglass
+theme: jekyll-whiteglass
 plugins:
   - jekyll-remote-theme
   - jekyll-archives
