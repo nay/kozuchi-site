@@ -18,7 +18,8 @@ Web家計簿「小槌」は、以下のコンセプトに基づいて開発さ�
 
 ## ソースコード
 
-ソースコードを <https://github.com/everyleaf/kozuchi> にて公開しています。
+* 小槌 <https://github.com/everyleaf/kozuchi>
+* 本サイト <https://github.com/nay/kozuchi-site>
 
 ## Contact Me
 
