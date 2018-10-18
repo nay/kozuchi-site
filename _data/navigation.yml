@@ -3,7 +3,11 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Archives"
+  - title: "お知らせ"
+    url: /categories/news/
+  - title: "リリース情報"
+    url: /categories/releases/
+  - title: "記事一覧"
     url: /archives/
   - title: "GitHub"
     url: https://github.com/yous/whiteglass
