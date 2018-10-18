@@ -9,5 +9,7 @@ main:
     url: /categories/releases/
   - title: "記事一覧"
     url: /archives/
+  - title: "利用規約"
+    url: /terms_of_service/
   - title: "GitHub"
     url: https://github.com/everyleaf/kozuchi
