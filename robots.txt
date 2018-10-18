@@ -1,1 +1,1 @@
-Sitemap: http://www.kozuchi.net/sitemap.xml
+Sitemap: https://www.kozuchi.net/sitemap.xml
