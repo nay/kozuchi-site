@@ -5,7 +5,7 @@
   
   <link href="https://www.kozuchi.net/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://www.kozuchi.net/" rel="alternate" type="text/html" />
-  <updated>2018-10-18T07:50:57+00:00</updated>
+  <updated>2018-10-18T07:55:51+00:00</updated>
   <id>https://www.kozuchi.net//</id>
 
   
@@ -22,6 +22,48 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">小槌.netをリニューアルしました</title>
+      
+      
+      <link href="https://www.kozuchi.net/2018/10/18/renewal/" rel="alternate" type="text/html" title="小槌.netをリニューアルしました" />
+      
+      <published>2018-10-18T00:00:00+00:00</published>
+      <updated>2018-10-18T00:00:00+00:00</updated>
+      <id>https://www.kozuchi.net/2018/10/18/renewal</id>
+      <content type="html" xml:base="https://www.kozuchi.net/2018/10/18/renewal/">&lt;p&gt;&lt;a href=&quot;https://www.kozuchi.net&quot;&gt;小槌.net&lt;/a&gt;をリニューアルしました。&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Yasuko Ohba</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="news" />
+      
+
+      
+
+      
+        <summary type="html">小槌.netをリニューアルしました。</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -970,54 +1012,6 @@
 
       
         <summary type="html">Ver.0.14.6をリリースしました。</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Ver.0.13.0 リリース</title>
-      
-      
-      <link href="https://www.kozuchi.net/2008/03/08/release-0-13-0/" rel="alternate" type="text/html" title="Ver.0.13.0 リリース" />
-      
-      <published>2008-03-08T00:00:00+00:00</published>
-      <updated>2008-03-08T00:00:00+00:00</updated>
-      <id>https://www.kozuchi.net/2008/03/08/release-0-13-0</id>
-      <content type="html" xml:base="https://www.kozuchi.net/2008/03/08/release-0-13-0/">&lt;p&gt;Ver.0.13.0をリリースしました。&lt;/p&gt;
-
-&lt;p&gt;不安定な動作の要因となっていたGD/GDChartによるグラフの描画をやめ、
-&lt;a href=&quot;http://www.html5.jp/library/graph_circle.html&quot;&gt;glaph_circle&lt;/a&gt;による円グラフの描画を採用しました。
-素晴らしいライブラリを公開している&lt;a href=&quot;http://www.html5.jp/&quot;&gt;futomi&lt;/a&gt;様に感謝いたします。&lt;/p&gt;
-
-&lt;p&gt;安定性の向上とグラフの文字化けが解消されました。&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Yasuko Ohba</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="releases" />
-      
-
-      
-
-      
-        <summary type="html">Ver.0.13.0をリリースしました。</summary>
       
 
       
