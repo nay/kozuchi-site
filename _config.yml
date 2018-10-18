@@ -2,6 +2,7 @@ title: 小槌.net
 author: Yasuko Ohba
 exclude:
   - README.md
+  - [vendor]
 
 defaults:
   - scope:
