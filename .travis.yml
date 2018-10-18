@@ -17,6 +17,7 @@ before_script:
 script:
   - git clone -b master --depth 1 "https://${GITHUB_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git" _site >/dev/null 2>&1
   - rm -rf _site/*
+  - echo "baseurl: '/kozuchi-site'" >> _config.yml
   - bundle exec jekyll build
 after_success:
   - cd _site
