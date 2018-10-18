@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Article RSS Feed</title>
-    <link>/rss/</link>
+    <link>http://www.kozuchi.net/rss/</link>
     <language>ja_JP</language>
     <ttl>40</ttl>
     <description>The main blog feed for my Web site.</description>
@@ -37,8 +37,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 21 Feb 2014 00:00:00 +0000</pubDate>
-        <guid isPermaLink="true">/2014/02/21/release-2-1-3/</guid>
-        <link>/2014/02/21/release-2-1-3/</link>
+        <guid isPermaLink="true">http://www.kozuchi.net/2014/02/21/release-2-1-3/</guid>
+        <link>http://www.kozuchi.net/2014/02/21/release-2-1-3/</link>
       </item>
     
       <item>
@@ -50,8 +50,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate>
-        <guid isPermaLink="true">/2014/01/13/release-2-0-10/</guid>
-        <link>/2014/01/13/release-2-0-10/</link>
+        <guid isPermaLink="true">http://www.kozuchi.net/2014/01/13/release-2-0-10/</guid>
+        <link>http://www.kozuchi.net/2014/01/13/release-2-0-10/</link>
       </item>
     
       <item>
@@ -63,8 +63,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate>
-        <guid isPermaLink="true">/2014/01/13/release-2-0-09/</guid>
-        <link>/2014/01/13/release-2-0-09/</link>
+        <guid isPermaLink="true">http://www.kozuchi.net/2014/01/13/release-2-0-09/</guid>
+        <link>http://www.kozuchi.net/2014/01/13/release-2-0-09/</link>
       </item>
     
       <item>
@@ -77,8 +77,8 @@
 
 </description>
         <pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate>
-        <guid isPermaLink="true">/2014/01/13/release-2-0-08/</guid>
-        <link>/2014/01/13/release-2-0-08/</link>
+        <guid isPermaLink="true">http://www.kozuchi.net/2014/01/13/release-2-0-08/</guid>
+        <link>http://www.kozuchi.net/2014/01/13/release-2-0-08/</link>
       </item>
     
       <item>
@@ -90,8 +90,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 05 Sep 2013 00:00:00 +0000</pubDate>
-        <guid isPermaLink="true">/2013/09/05/release-2-0-7/</guid>
-        <link>/2013/09/05/release-2-0-7/</link>
+        <guid isPermaLink="true">http://www.kozuchi.net/2013/09/05/release-2-0-7/</guid>
+        <link>http://www.kozuchi.net/2013/09/05/release-2-0-7/</link>
       </item>
     
       <item>
@@ -103,8 +103,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 05 Sep 2013 00:00:00 +0000</pubDate>
-        <guid isPermaLink="true">/2013/09/05/release-2-0-6/</guid>
-        <link>/2013/09/05/release-2-0-6/</link>
+        <guid isPermaLink="true">http://www.kozuchi.net/2013/09/05/release-2-0-6/</guid>
+        <link>http://www.kozuchi.net/2013/09/05/release-2-0-6/</link>
       </item>
     
       <item>
@@ -116,8 +116,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
-        <guid isPermaLink="true">/2013/09/01/release-2-0-5/</guid>
-        <link>/2013/09/01/release-2-0-5/</link>
+        <guid isPermaLink="true">http://www.kozuchi.net/2013/09/01/release-2-0-5/</guid>
+        <link>http://www.kozuchi.net/2013/09/01/release-2-0-5/</link>
       </item>
     
       <item>
@@ -130,8 +130,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 16 Aug 2013 00:00:00 +0000</pubDate>
-        <guid isPermaLink="true">/2013/08/16/release-2-0-4/</guid>
-        <link>/2013/08/16/release-2-0-4/</link>
+        <guid isPermaLink="true">http://www.kozuchi.net/2013/08/16/release-2-0-4/</guid>
+        <link>http://www.kozuchi.net/2013/08/16/release-2-0-4/</link>
       </item>
     
       <item>
@@ -144,8 +144,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 17 Jul 2013 00:00:00 +0000</pubDate>
-        <guid isPermaLink="true">/2013/07/17/release-2-0-3/</guid>
-        <link>/2013/07/17/release-2-0-3/</link>
+        <guid isPermaLink="true">http://www.kozuchi.net/2013/07/17/release-2-0-3/</guid>
+        <link>http://www.kozuchi.net/2013/07/17/release-2-0-3/</link>
       </item>
     
       <item>
@@ -157,8 +157,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 30 Jun 2013 00:00:00 +0000</pubDate>
-        <guid isPermaLink="true">/2013/06/30/release-2-0-2/</guid>
-        <link>/2013/06/30/release-2-0-2/</link>
+        <guid isPermaLink="true">http://www.kozuchi.net/2013/06/30/release-2-0-2/</guid>
+        <link>http://www.kozuchi.net/2013/06/30/release-2-0-2/</link>
       </item>
     
   </channel>
