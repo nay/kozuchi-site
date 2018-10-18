@@ -1,3 +1,3 @@
 # kozuchi-site
 
-The jekyll source codes for <https://www.kozuchi.net>.
+The jekyll source codes for <http://www.kozuchi.net/>.
