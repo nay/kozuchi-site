@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Article RSS Feed</title>
-    <link>https://www.kozuchi.net/rss/</link>
+    <link>https://www.kozuchi.net/rss</link>
     <language>ja_JP</language>
     <ttl>40</ttl>
     <description>The main blog feed for my Web site.</description>
