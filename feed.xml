@@ -5,7 +5,7 @@
   
   <link href="https://www.kozuchi.net/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://www.kozuchi.net/" rel="alternate" type="text/html" />
-  <updated>2018-10-25T06:52:57+00:00</updated>
+  <updated>2019-01-18T05:48:59+00:00</updated>
   <id>https://www.kozuchi.net//</id>
 
   
@@ -22,6 +22,103 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Ver.2.2.2 リリース</title>
+      
+      
+      <link href="https://www.kozuchi.net/2018/11/14/release-2.2.2/" rel="alternate" type="text/html" title="Ver.2.2.2 リリース" />
+      
+      <published>2018-11-14T00:00:00+00:00</published>
+      <updated>2018-11-14T00:00:00+00:00</updated>
+      <id>https://www.kozuchi.net/2018/11/14/release-2.2.2</id>
+      <content type="html" xml:base="https://www.kozuchi.net/2018/11/14/release-2.2.2/">&lt;p&gt;&lt;a href=&quot;https://github.com/everyleaf/kozuchi/releases/tag/release-2.2.2&quot;&gt;Ver.2.2.2&lt;/a&gt; をリリースしました。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;記入のサジェッションで、摘要が同じ候補が複数表示されてしまう不具合を修正しました。&lt;/li&gt;
+  &lt;li&gt;内部で利用しているライブラリのバージョンを上げました。&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Yasuko Ohba</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="releases" />
+      
+
+      
+
+      
+        <summary type="html">Ver.2.2.2 をリリースしました。</summary>
+      
+
+      
+      
+    </entry>
+  
+  
+  
+    <entry>
+      
+      <title type="html">Ver.2.2.1 リリース</title>
+      
+      
+      <link href="https://www.kozuchi.net/2018/11/07/release-2.2.1/" rel="alternate" type="text/html" title="Ver.2.2.1 リリース" />
+      
+      <published>2018-11-07T00:00:00+00:00</published>
+      <updated>2018-11-07T00:00:00+00:00</updated>
+      <id>https://www.kozuchi.net/2018/11/07/release-2.2.1</id>
+      <content type="html" xml:base="https://www.kozuchi.net/2018/11/07/release-2.2.1/">&lt;p&gt;&lt;a href=&quot;https://github.com/everyleaf/kozuchi/releases/tag/release-2.2.1&quot;&gt;Ver.2.2.1&lt;/a&gt; をリリースしました。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;複数明細の登録・編集に失敗することがある不具合を修正しました。&lt;/li&gt;
+  &lt;li&gt;口座を選択した請求一覧に年が出ていなかった不具合を修正しました。&lt;/li&gt;
+  &lt;li&gt;精算が一つもない口座で精算一覧が不正になることがあった不具合を修正しました。&lt;/li&gt;
+  &lt;li&gt;請求作成時に取引選択情報なども記憶されるようにしました。&lt;/li&gt;
+  &lt;li&gt;円グラフのラベルや凡例の表示位置を修正しました。&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Yasuko Ohba</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="releases" />
+      
+
+      
+
+      
+        <summary type="html">Ver.2.2.1 をリリースしました。</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -911,107 +1008,6 @@
 
       
         <summary type="html">Ver.0.16.0をリリースしました。</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Ver.0.15.3 リリース</title>
-      
-      
-      <link href="https://www.kozuchi.net/2008/07/13/release-0-15-3/" rel="alternate" type="text/html" title="Ver.0.15.3 リリース" />
-      
-      <published>2008-07-13T00:00:00+00:00</published>
-      <updated>2008-07-13T00:00:00+00:00</updated>
-      <id>https://www.kozuchi.net/2008/07/13/release-0-15-3</id>
-      <content type="html" xml:base="https://www.kozuchi.net/2008/07/13/release-0-15-3/">&lt;p&gt;Ver.0.15.3をリリースしました。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;残高を削除する時にエラーが出ていた不具合を修正しました。&lt;/li&gt;
-  &lt;li&gt;仕分帳から明細の検索ができるようにしました。&lt;/li&gt;
-  &lt;li&gt;登録や更新をした明細が表示範囲内にこなくなっていた不具合を修正しました。&lt;/li&gt;
-  &lt;li&gt;内部で利用しているRailsのバージョンを2.1.0に上げました。&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Yasuko Ohba</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="releases" />
-      
-
-      
-
-      
-        <summary type="html">Ver.0.15.3をリリースしました。</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Ver.0.14.6 リリース</title>
-      
-      
-      <link href="https://www.kozuchi.net/2008/06/30/release-0-14-6/" rel="alternate" type="text/html" title="Ver.0.14.6 リリース" />
-      
-      <published>2008-06-30T00:00:00+00:00</published>
-      <updated>2008-06-30T00:00:00+00:00</updated>
-      <id>https://www.kozuchi.net/2008/06/30/release-0-14-6</id>
-      <content type="html" xml:base="https://www.kozuchi.net/2008/06/30/release-0-14-6/">&lt;p&gt;Ver.0.14.6をリリースしました。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;内部で利用しているRailsのバージョンを2.0にしました。&lt;/li&gt;
-  &lt;li&gt;ホーム画面を追加し、資産、支出の推移の概要を表示するようにしました。&lt;/li&gt;
-  &lt;li&gt;残高記入の内部処理を変更し、残高計算の速度を改善しました。それにともない、仕訳帳において残高（最初のものを除く）で不明金額も表示されるようになりました。&lt;/li&gt;
-  &lt;li&gt;デザインを変更しました。&lt;/li&gt;
-  &lt;li&gt;プロフィールから姓名を削除しました。&lt;/li&gt;
-  &lt;li&gt;金額がマイナスのときに円グラフの表示がおかしくなる問題を修正しました。&lt;/li&gt;
-  &lt;li&gt;トップページに表示するニュースを http://www.kozuchi.net から取得するようにしました。&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Yasuko Ohba</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="releases" />
-      
-
-      
-
-      
-        <summary type="html">Ver.0.14.6をリリースしました。</summary>
       
 
       
