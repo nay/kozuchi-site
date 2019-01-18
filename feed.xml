@@ -5,7 +5,7 @@
   
   <link href="https://www.kozuchi.net/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://www.kozuchi.net/" rel="alternate" type="text/html" />
-  <updated>2019-01-18T05:48:59+00:00</updated>
+  <updated>2019-01-18T07:48:42+00:00</updated>
   <id>https://www.kozuchi.net//</id>
 
   
@@ -22,6 +22,48 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">運用中の小槌のバージョンを2.2.2に上げました</title>
+      
+      
+      <link href="https://www.kozuchi.net/2019/01/09/host-update-2.2.2/" rel="alternate" type="text/html" title="運用中の小槌のバージョンを2.2.2に上げました" />
+      
+      <published>2019-01-09T00:00:00+00:00</published>
+      <updated>2019-01-09T00:00:00+00:00</updated>
+      <id>https://www.kozuchi.net/2019/01/09/host-update-2.2.2</id>
+      <content type="html" xml:base="https://www.kozuchi.net/2019/01/09/host-update-2.2.2/">&lt;p&gt;&lt;a href=&quot;http://host.kozuchi.net&quot;&gt;http://host.kozuchi.net&lt;/a&gt;にて運用中の小槌のバージョンを2.2.2に上げました。&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Yasuko Ohba</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="news" />
+      
+
+      
+
+      
+        <summary type="html">http://host.kozuchi.netにて運用中の小槌のバージョンを2.2.2に上げました。</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -951,63 +993,6 @@
 
       
         <summary type="html">小槌のソースをBSDライセンスでgithub上に公開しました。 ご自分で小槌をセットアップして使いたいという方はこちらをご利用ください。</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Ver.0.16.0 リリース</title>
-      
-      
-      <link href="https://www.kozuchi.net/2009/04/12/release-0-16-0/" rel="alternate" type="text/html" title="Ver.0.16.0 リリース" />
-      
-      <published>2009-04-12T00:00:00+00:00</published>
-      <updated>2009-04-12T00:00:00+00:00</updated>
-      <id>https://www.kozuchi.net/2009/04/12/release-0-16-0</id>
-      <content type="html" xml:base="https://www.kozuchi.net/2009/04/12/release-0-16-0/">&lt;p&gt;Ver.0.16.0をリリースしました。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;取引連動の設定ができない不具合を修正しました。&lt;/li&gt;
-  &lt;li&gt;一部の携帯電話から利用できるようにしました。（機種によってお使いいただけない場合があるかもしれません。ご連絡いただければ幸いです）&lt;/li&gt;
-  &lt;li&gt;非推奨となっていた古い精算の仕組み（精算ルールによる精算）を削除しました。&lt;/li&gt;
-  &lt;li&gt;内部データの格納形式を整理しました。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;不具合等お気づきの点がありましたらお問い合わせください。&lt;/p&gt;
-
-&lt;p&gt;なお、以下の不具合については近々に修正する予定となっております。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;アカウントを削除しようとするとエラーが発生して削除できない。&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Yasuko Ohba</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="releases" />
-      
-
-      
-
-      
-        <summary type="html">Ver.0.16.0をリリースしました。</summary>
       
 
       

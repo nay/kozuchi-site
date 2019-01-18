@@ -8,6 +8,16 @@
     <description>The main blog feed for my Web site.</description>
     
       <item>
+        <title>運用中の小槌のバージョンを2.2.2に上げました</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://host.kozuchi.net&quot;&gt;http://host.kozuchi.net&lt;/a&gt;にて運用中の小槌のバージョンを2.2.2に上げました。&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+        <guid isPermaLink="true">https://www.kozuchi.net/2019/01/09/host-update-2.2.2/</guid>
+        <link>https://www.kozuchi.net/2019/01/09/host-update-2.2.2/</link>
+      </item>
+    
+      <item>
         <title>Ver.2.2.2 リリース</title>
         <description>&lt;p&gt;&lt;a href=&quot;https://github.com/everyleaf/kozuchi/releases/tag/release-2.2.2&quot;&gt;Ver.2.2.2&lt;/a&gt; をリリースしました。&lt;/p&gt;
 
@@ -145,19 +155,6 @@
         <pubDate>Thu, 05 Sep 2013 00:00:00 +0000</pubDate>
         <guid isPermaLink="true">https://www.kozuchi.net/2013/09/05/release-2-0-6/</guid>
         <link>https://www.kozuchi.net/2013/09/05/release-2-0-6/</link>
-      </item>
-    
-      <item>
-        <title>Ver.2.0.5 リリース</title>
-        <description>&lt;p&gt;Ver.2.0.5をリリースしました。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;精算結果が「支払う」側であっても立替経費精算依頼書を出力したり相手に提出できるようにしました。&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
-        <guid isPermaLink="true">https://www.kozuchi.net/2013/09/01/release-2-0-5/</guid>
-        <link>https://www.kozuchi.net/2013/09/01/release-2-0-5/</link>
       </item>
     
   </channel>
