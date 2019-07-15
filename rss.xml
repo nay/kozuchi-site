@@ -8,6 +8,74 @@
     <description>The main blog feed for my Web site.</description>
     
       <item>
+        <title>Ver.3.0.1 リリース</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://github.com/everyleaf/kozuchi/releases/tag/release-3.0.1&quot;&gt;Ver.3.0.1&lt;/a&gt; をリリースしました。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;BASIC認証をかけられるようにしました。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+        <guid isPermaLink="true">https://www.kozuchi.net/2019/07/15/release-3.0.1/</guid>
+        <link>https://www.kozuchi.net/2019/07/15/release-3.0.1/</link>
+      </item>
+    
+      <item>
+        <title>Ver.3.0.0 リリース</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://github.com/everyleaf/kozuchi/releases/tag/release-3.0.0&quot;&gt;Ver.3.0.0&lt;/a&gt; をリリースしました。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;データベースをMySQLからPostgreSQLに変更しました。&lt;/li&gt;
+  &lt;li&gt;アプリケーションの設定方法を環境変数に変更しました。&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+        <guid isPermaLink="true">https://www.kozuchi.net/2019/07/15/release-3.0.0/</guid>
+        <link>https://www.kozuchi.net/2019/07/15/release-3.0.0/</link>
+      </item>
+    
+      <item>
+        <title>公開中の小槌のバージョンを 3.0.1 に上げました</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://host.kozuchi.net/&quot;&gt;https://host.kozuchi.net/&lt;/a&gt;にて公開中の小槌のバージョンを 3.0.1 に上げました。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+        <guid isPermaLink="true">https://www.kozuchi.net/2019/07/15/hosting-update/</guid>
+        <link>https://www.kozuchi.net/2019/07/15/hosting-update/</link>
+      </item>
+    
+      <item>
+        <title>公開中の小槌のバージョンを 3.0.0 に上げました</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://host.kozuchi.net/&quot;&gt;https://host.kozuchi.net/&lt;/a&gt;にて公開中の小槌のバージョンを 3.0.0 に上げました。また、運用サーバを移行しました。&lt;/p&gt;
+</description>
+        <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+        <guid isPermaLink="true">https://www.kozuchi.net/2019/07/14/hosting-update/</guid>
+        <link>https://www.kozuchi.net/2019/07/14/hosting-update/</link>
+      </item>
+    
+      <item>
+        <title>Ver.2.2.4 リリース</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://github.com/everyleaf/kozuchi/releases/tag/release-2.2.4&quot;&gt;Ver.2.2.4&lt;/a&gt; をリリースしました。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;内部的に利用しているライブラリのバージョンを上げました。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+        <guid isPermaLink="true">https://www.kozuchi.net/2019/06/06/release-2.2.4/</guid>
+        <link>https://www.kozuchi.net/2019/06/06/release-2.2.4/</link>
+      </item>
+    
+      <item>
+        <title>公開中の小槌のバージョンを 2.2.3 に上げました</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://host.kozuchi.net/&quot;&gt;https://host.kozuchi.net/&lt;/a&gt;にて公開中の小槌のバージョンを 2.2.3 に上げました。&lt;/p&gt;
+</description>
+        <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+        <guid isPermaLink="true">https://www.kozuchi.net/2019/01/09/hosting-update/</guid>
+        <link>https://www.kozuchi.net/2019/01/09/hosting-update/</link>
+      </item>
+    
+      <item>
         <title>運用中の小槌のバージョンを2.2.2に上げました</title>
         <description>&lt;p&gt;&lt;a href=&quot;http://host.kozuchi.net&quot;&gt;http://host.kozuchi.net&lt;/a&gt;にて運用中の小槌のバージョンを2.2.2に上げました。&lt;/p&gt;
 
@@ -15,6 +83,20 @@
         <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
         <guid isPermaLink="true">https://www.kozuchi.net/2019/01/09/host-update-2.2.2/</guid>
         <link>https://www.kozuchi.net/2019/01/09/host-update-2.2.2/</link>
+      </item>
+    
+      <item>
+        <title>Ver.2.2.3 リリース</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://github.com/everyleaf/kozuchi/releases/tag/release-2.2.3&quot;&gt;Ver.2.2.3&lt;/a&gt; をリリースしました。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;内部的に利用しているライブラリのバージョンを上げました。&lt;/li&gt;
+  &lt;li&gt;記入数の多い精算の作成作業中にエラーが出る不具合を修正しました。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 18 Nov 2018 00:00:00 +0000</pubDate>
+        <guid isPermaLink="true">https://www.kozuchi.net/2018/11/18/release-2.2.3/</guid>
+        <link>https://www.kozuchi.net/2018/11/18/release-2.2.3/</link>
       </item>
     
       <item>
@@ -46,115 +128,6 @@
         <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
         <guid isPermaLink="true">https://www.kozuchi.net/2018/11/07/release-2.2.1/</guid>
         <link>https://www.kozuchi.net/2018/11/07/release-2.2.1/</link>
-      </item>
-    
-      <item>
-        <title>小槌.netをリニューアルしました</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://www.kozuchi.net&quot;&gt;小槌.net&lt;/a&gt;をリニューアルしました。&lt;/p&gt;
-</description>
-        <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
-        <guid isPermaLink="true">https://www.kozuchi.net/2018/10/18/renewal/</guid>
-        <link>https://www.kozuchi.net/2018/10/18/renewal/</link>
-      </item>
-    
-      <item>
-        <title>Ver.2.1.3 リリース</title>
-        <description>&lt;p&gt;Ver.2.1.0 〜 2.1.3をリリースしました。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Ver.2.1.3
-    &lt;ul&gt;
-      &lt;li&gt;Ver.2.1.0から、精算画面の全選択/解除ボタンが画面更新後に動かなくなっていた不具合を修正しました。&lt;/li&gt;
-      &lt;li&gt;内部的に利用しているRubyのバージョンを上げました。&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Ver.2.1.2
-    &lt;ul&gt;
-      &lt;li&gt;Ver.2.1.0から資産表等の円グラフが表示されなくなっていた不具合を修正しました。&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Ver.2.1.1
-    &lt;ul&gt;
-      &lt;li&gt;精算作成時に、同じ口座について複数の記入のある明細では１つ分しか精算に入らなかった不具合を修正しました。&lt;/li&gt;
-      &lt;li&gt;精算作成画面から口座別出納の該当する記入へ遷移したとき、正しい当該記入行が赤くならなかった不具合を修正しました。&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Ver.2.1.0
-    &lt;ul&gt;
-      &lt;li&gt;内部的に利用しているJavaScriptのライブラリを変更しました。&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 21 Feb 2014 00:00:00 +0000</pubDate>
-        <guid isPermaLink="true">https://www.kozuchi.net/2014/02/21/release-2-1-3/</guid>
-        <link>https://www.kozuchi.net/2014/02/21/release-2-1-3/</link>
-      </item>
-    
-      <item>
-        <title>Ver.2.0.10 リリース</title>
-        <description>&lt;p&gt;Ver.2.0.10をリリースしました。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;口座別出納画面に精算を表示するようにしました。&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate>
-        <guid isPermaLink="true">https://www.kozuchi.net/2014/01/13/release-2-0-10/</guid>
-        <link>https://www.kozuchi.net/2014/01/13/release-2-0-10/</link>
-      </item>
-    
-      <item>
-        <title>Ver.2.0.9 リリース</title>
-        <description>&lt;p&gt;Ver.2.0.9をリリースしました。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;精算作成画面にチェックボックスをすべて選択したり解除するボタンを設けました。&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate>
-        <guid isPermaLink="true">https://www.kozuchi.net/2014/01/13/release-2-0-09/</guid>
-        <link>https://www.kozuchi.net/2014/01/13/release-2-0-09/</link>
-      </item>
-    
-      <item>
-        <title>Ver.2.0.8 リリース</title>
-        <description>&lt;p&gt;Ver.2.0.8をリリースしました。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;運用設定に応じて、プライバシーポリシー関連の情報を表示できるようにしました。&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate>
-        <guid isPermaLink="true">https://www.kozuchi.net/2014/01/13/release-2-0-08/</guid>
-        <link>https://www.kozuchi.net/2014/01/13/release-2-0-08/</link>
-      </item>
-    
-      <item>
-        <title>Ver.2.0.7 リリース</title>
-        <description>&lt;p&gt;Ver.2.0.7をリリースしました。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;パターン選択時に摘要が記入欄に入らない問題を修正しました。&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 05 Sep 2013 00:00:00 +0000</pubDate>
-        <guid isPermaLink="true">https://www.kozuchi.net/2013/09/05/release-2-0-7/</guid>
-        <link>https://www.kozuchi.net/2013/09/05/release-2-0-7/</link>
-      </item>
-    
-      <item>
-        <title>Ver.2.0.6 リリース</title>
-        <description>&lt;p&gt;Ver.2.0.6をリリースしました。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;複数明細でサマリーを別々に書けるようにした影響で仕訳帳の表示が遅くなっていた問題を修正しました。&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 05 Sep 2013 00:00:00 +0000</pubDate>
-        <guid isPermaLink="true">https://www.kozuchi.net/2013/09/05/release-2-0-6/</guid>
-        <link>https://www.kozuchi.net/2013/09/05/release-2-0-6/</link>
       </item>
     
   </channel>
