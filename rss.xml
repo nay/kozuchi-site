@@ -9,7 +9,7 @@
     
       <item>
         <title>Ver.3.0.1 リリース</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://github.com/everyleaf/kozuchi/releases/tag/release-3.0.1&quot;&gt;Ver.3.0.1&lt;/a&gt; をリリースしました。&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;https://github.com/nay/kozuchi/releases/tag/release-3.0.1&quot;&gt;Ver.3.0.1&lt;/a&gt; をリリースしました。&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;BASIC認証をかけられるようにしました。&lt;/li&gt;
@@ -22,7 +22,7 @@
     
       <item>
         <title>Ver.3.0.0 リリース</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://github.com/everyleaf/kozuchi/releases/tag/release-3.0.0&quot;&gt;Ver.3.0.0&lt;/a&gt; をリリースしました。&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;https://github.com/nay/kozuchi/releases/tag/release-3.0.0&quot;&gt;Ver.3.0.0&lt;/a&gt; をリリースしました。&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;データベースをMySQLからPostgreSQLに変更しました。&lt;/li&gt;
@@ -55,7 +55,7 @@
     
       <item>
         <title>Ver.2.2.4 リリース</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://github.com/everyleaf/kozuchi/releases/tag/release-2.2.4&quot;&gt;Ver.2.2.4&lt;/a&gt; をリリースしました。&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;https://github.com/nay/kozuchi/releases/tag/release-2.2.4&quot;&gt;Ver.2.2.4&lt;/a&gt; をリリースしました。&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;内部的に利用しているライブラリのバージョンを上げました。&lt;/li&gt;
@@ -87,7 +87,7 @@
     
       <item>
         <title>Ver.2.2.3 リリース</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://github.com/everyleaf/kozuchi/releases/tag/release-2.2.3&quot;&gt;Ver.2.2.3&lt;/a&gt; をリリースしました。&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;https://github.com/nay/kozuchi/releases/tag/release-2.2.3&quot;&gt;Ver.2.2.3&lt;/a&gt; をリリースしました。&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;内部的に利用しているライブラリのバージョンを上げました。&lt;/li&gt;
@@ -101,7 +101,7 @@
     
       <item>
         <title>Ver.2.2.2 リリース</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://github.com/everyleaf/kozuchi/releases/tag/release-2.2.2&quot;&gt;Ver.2.2.2&lt;/a&gt; をリリースしました。&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;https://github.com/nay/kozuchi/releases/tag/release-2.2.2&quot;&gt;Ver.2.2.2&lt;/a&gt; をリリースしました。&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;記入のサジェッションで、摘要が同じ候補が複数表示されてしまう不具合を修正しました。&lt;/li&gt;
@@ -115,7 +115,7 @@
     
       <item>
         <title>Ver.2.2.1 リリース</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://github.com/everyleaf/kozuchi/releases/tag/release-2.2.1&quot;&gt;Ver.2.2.1&lt;/a&gt; をリリースしました。&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;https://github.com/nay/kozuchi/releases/tag/release-2.2.1&quot;&gt;Ver.2.2.1&lt;/a&gt; をリリースしました。&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;複数明細の登録・編集に失敗することがある不具合を修正しました。&lt;/li&gt;
