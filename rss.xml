@@ -8,6 +8,20 @@
     <description>The main blog feed for my Web site.</description>
     
       <item>
+        <title>Ver.3.0.4 リリース</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://github.com/nay/kozuchi/releases/tag/release-3.0.4&quot;&gt;Ver.3.0.4&lt;/a&gt; をリリースしました。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;口座別の記入画面に出る精算へのリンクを前・今・翌月から今・翌・翌々月に変更しました。&lt;/li&gt;
+  &lt;li&gt;記入のサジェッションで、口座の異なる候補も表示されるように変更しました。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
+        <guid isPermaLink="true">https://www.kozuchi.net/2019/11/14/release-3.0.4/</guid>
+        <link>https://www.kozuchi.net/2019/11/14/release-3.0.4/</link>
+      </item>
+    
+      <item>
         <title>Ver.3.0.3 リリース</title>
         <description>&lt;p&gt;&lt;a href=&quot;https://github.com/nay/kozuchi/releases/tag/release-3.0.3&quot;&gt;Ver.3.0.3&lt;/a&gt; をリリースしました。&lt;/p&gt;
 
@@ -110,20 +124,6 @@
         <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
         <guid isPermaLink="true">https://www.kozuchi.net/2019/01/09/host-update-2.2.2/</guid>
         <link>https://www.kozuchi.net/2019/01/09/host-update-2.2.2/</link>
-      </item>
-    
-      <item>
-        <title>Ver.2.2.3 リリース</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://github.com/nay/kozuchi/releases/tag/release-2.2.3&quot;&gt;Ver.2.2.3&lt;/a&gt; をリリースしました。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;内部的に利用しているライブラリのバージョンを上げました。&lt;/li&gt;
-  &lt;li&gt;記入数の多い精算の作成作業中にエラーが出る不具合を修正しました。&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 18 Nov 2018 00:00:00 +0000</pubDate>
-        <guid isPermaLink="true">https://www.kozuchi.net/2018/11/18/release-2.2.3/</guid>
-        <link>https://www.kozuchi.net/2018/11/18/release-2.2.3/</link>
       </item>
     
   </channel>

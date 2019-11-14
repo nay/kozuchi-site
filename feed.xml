@@ -5,7 +5,7 @@
   
   <link href="https://www.kozuchi.net/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://www.kozuchi.net/" rel="alternate" type="text/html" />
-  <updated>2019-11-13T23:55:05+00:00</updated>
+  <updated>2019-11-14T00:30:09+00:00</updated>
   <id>https://www.kozuchi.net//</id>
 
   
@@ -22,6 +22,53 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Ver.3.0.4 リリース</title>
+      
+      
+      <link href="https://www.kozuchi.net/2019/11/14/release-3.0.4/" rel="alternate" type="text/html" title="Ver.3.0.4 リリース" />
+      
+      <published>2019-11-14T00:00:00+00:00</published>
+      <updated>2019-11-14T00:00:00+00:00</updated>
+      <id>https://www.kozuchi.net/2019/11/14/release-3.0.4</id>
+      <content type="html" xml:base="https://www.kozuchi.net/2019/11/14/release-3.0.4/">&lt;p&gt;&lt;a href=&quot;https://github.com/nay/kozuchi/releases/tag/release-3.0.4&quot;&gt;Ver.3.0.4&lt;/a&gt; をリリースしました。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;口座別の記入画面に出る精算へのリンクを前・今・翌月から今・翌・翌々月に変更しました。&lt;/li&gt;
+  &lt;li&gt;記入のサジェッションで、口座の異なる候補も表示されるように変更しました。&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Yasuko Ohba</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="releases" />
+      
+
+      
+
+      
+        <summary type="html">Ver.3.0.4 をリリースしました。</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -899,52 +946,6 @@
 
       
         <summary type="html">Ver.2.0.6をリリースしました。</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Ver.2.0.5 リリース</title>
-      
-      
-      <link href="https://www.kozuchi.net/2013/09/01/release-2-0-5/" rel="alternate" type="text/html" title="Ver.2.0.5 リリース" />
-      
-      <published>2013-09-01T00:00:00+00:00</published>
-      <updated>2013-09-01T00:00:00+00:00</updated>
-      <id>https://www.kozuchi.net/2013/09/01/release-2-0-5</id>
-      <content type="html" xml:base="https://www.kozuchi.net/2013/09/01/release-2-0-5/">&lt;p&gt;Ver.2.0.5をリリースしました。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;精算結果が「支払う」側であっても立替経費精算依頼書を出力したり相手に提出できるようにしました。&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Yasuko Ohba</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="releases" />
-      
-
-      
-
-      
-        <summary type="html">Ver.2.0.5をリリースしました。</summary>
       
 
       
