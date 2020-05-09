@@ -8,6 +8,33 @@
     <description>The main blog feed for my Web site.</description>
     
       <item>
+        <title>Ver.3.0.6 リリース</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://github.com/nay/kozuchi/releases/tag/release-3.0.6&quot;&gt;Ver.3.0.6&lt;/a&gt; をリリースしました。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;内部的に利用しているライブラリを一部変更しました。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+        <guid isPermaLink="true">https://www.kozuchi.net/2020/05/09/reelase-3.0.6/</guid>
+        <link>https://www.kozuchi.net/2020/05/09/reelase-3.0.6/</link>
+      </item>
+    
+      <item>
+        <title>Ver.3.0.5 リリース</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://github.com/nay/kozuchi/releases/tag/release-3.0.5&quot;&gt;Ver.3.0.5&lt;/a&gt; をリリースしました。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;内部的に利用しているライブラリのバージョンを上げました。&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
+        <guid isPermaLink="true">https://www.kozuchi.net/2019/11/17/release-3.0.5/</guid>
+        <link>https://www.kozuchi.net/2019/11/17/release-3.0.5/</link>
+      </item>
+    
+      <item>
         <title>Ver.3.0.4 リリース</title>
         <description>&lt;p&gt;&lt;a href=&quot;https://github.com/nay/kozuchi/releases/tag/release-3.0.4&quot;&gt;Ver.3.0.4&lt;/a&gt; をリリースしました。&lt;/p&gt;
 
@@ -105,25 +132,6 @@
         <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
         <guid isPermaLink="true">https://www.kozuchi.net/2019/06/06/release-2.2.4/</guid>
         <link>https://www.kozuchi.net/2019/06/06/release-2.2.4/</link>
-      </item>
-    
-      <item>
-        <title>公開中の小槌のバージョンを 2.2.3 に上げました</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://host.kozuchi.net/&quot;&gt;https://host.kozuchi.net/&lt;/a&gt;にて公開中の小槌のバージョンを 2.2.3 に上げました。&lt;/p&gt;
-</description>
-        <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
-        <guid isPermaLink="true">https://www.kozuchi.net/2019/01/09/hosting-update/</guid>
-        <link>https://www.kozuchi.net/2019/01/09/hosting-update/</link>
-      </item>
-    
-      <item>
-        <title>運用中の小槌のバージョンを2.2.2に上げました</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://host.kozuchi.net&quot;&gt;http://host.kozuchi.net&lt;/a&gt;にて運用中の小槌のバージョンを2.2.2に上げました。&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
-        <guid isPermaLink="true">https://www.kozuchi.net/2019/01/09/host-update-2.2.2/</guid>
-        <link>https://www.kozuchi.net/2019/01/09/host-update-2.2.2/</link>
       </item>
     
   </channel>
