@@ -5,7 +5,7 @@
   
   <link href="https://www.kozuchi.net/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://www.kozuchi.net/" rel="alternate" type="text/html" />
-  <updated>2020-05-09T10:09:38+00:00</updated>
+  <updated>2021-02-13T09:23:54+00:00</updated>
   <id>https://www.kozuchi.net//</id>
 
   
@@ -22,6 +22,54 @@
     </author>
   
 
+  
+  
+    <entry>
+      
+      <title type="html">Ver.3.0.7 リリース</title>
+      
+      
+      <link href="https://www.kozuchi.net/2021/02/13/reelase-3.0.7/" rel="alternate" type="text/html" title="Ver.3.0.7 リリース" />
+      
+      <published>2021-02-13T00:00:00+00:00</published>
+      <updated>2021-02-13T00:00:00+00:00</updated>
+      <id>https://www.kozuchi.net/2021/02/13/reelase-3.0.7</id>
+      <content type="html" xml:base="https://www.kozuchi.net/2021/02/13/reelase-3.0.7/">&lt;p&gt;&lt;a href=&quot;https://github.com/nay/kozuchi/releases/tag/release-3.0.7&quot;&gt;Ver.3.0.7&lt;/a&gt; をリリースしました。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;摘要が長すぎる場合に登録できない不具合を修正しました。&lt;/li&gt;
+  &lt;li&gt;精算対象口座にクレジットカードを追加しました。&lt;/li&gt;
+  &lt;li&gt;内部的に利用しているライブラリを更新しました。&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      
+        <author>
+            <name>Yasuko Ohba</name>
+          
+          
+        </author>
+      
+
+      
+        <category term="releases" />
+      
+
+      
+
+      
+        <summary type="html">Ver.3.0.7 をリリースしました。</summary>
+      
+
+      
+      
+    </entry>
+  
   
   
     <entry>
@@ -900,52 +948,6 @@
 
       
         <summary type="html">Ver.2.0.9をリリースしました。</summary>
-      
-
-      
-      
-    </entry>
-  
-  
-  
-    <entry>
-      
-      <title type="html">Ver.2.0.8 リリース</title>
-      
-      
-      <link href="https://www.kozuchi.net/2014/01/13/release-2-0-08/" rel="alternate" type="text/html" title="Ver.2.0.8 リリース" />
-      
-      <published>2014-01-13T00:00:00+00:00</published>
-      <updated>2014-01-13T00:00:00+00:00</updated>
-      <id>https://www.kozuchi.net/2014/01/13/release-2-0-08</id>
-      <content type="html" xml:base="https://www.kozuchi.net/2014/01/13/release-2-0-08/">&lt;p&gt;Ver.2.0.8をリリースしました。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;運用設定に応じて、プライバシーポリシー関連の情報を表示できるようにしました。&lt;/li&gt;
-&lt;/ul&gt;</content>
-
-      
-      
-      
-      
-      
-
-      
-        <author>
-            <name>Yasuko Ohba</name>
-          
-          
-        </author>
-      
-
-      
-        <category term="releases" />
-      
-
-      
-
-      
-        <summary type="html">Ver.2.0.8をリリースしました。</summary>
       
 
       
