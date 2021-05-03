@@ -8,6 +8,19 @@
     <description>The main blog feed for my Web site.</description>
     
       <item>
+        <title>Ver.3.1.1 リリース</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://github.com/nay/kozuchi/releases/tag/release-3.1.1&quot;&gt;Ver.3.1.1&lt;/a&gt; をリリースしました。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;内部的に利用しているライブラリを更新しました。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+        <guid isPermaLink="true">https://www.kozuchi.net/2021/05/03/release-3.1.1/</guid>
+        <link>https://www.kozuchi.net/2021/05/03/release-3.1.1/</link>
+      </item>
+    
+      <item>
         <title>Ver.3.1.0 リリース</title>
         <description>&lt;p&gt;&lt;a href=&quot;https://github.com/nay/kozuchi/releases/tag/release-3.1.0&quot;&gt;Ver.3.1.0&lt;/a&gt; をリリースしました。&lt;/p&gt;
 
@@ -129,15 +142,6 @@
         <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
         <guid isPermaLink="true">https://www.kozuchi.net/2019/07/15/release-3.0.0/</guid>
         <link>https://www.kozuchi.net/2019/07/15/release-3.0.0/</link>
-      </item>
-    
-      <item>
-        <title>公開中の小槌のバージョンを 3.0.1 に上げました</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://host.kozuchi.net/&quot;&gt;https://host.kozuchi.net/&lt;/a&gt;にて公開中の小槌のバージョンを 3.0.1 に上げました。&lt;/p&gt;
-</description>
-        <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
-        <guid isPermaLink="true">https://www.kozuchi.net/2019/07/15/hosting-update/</guid>
-        <link>https://www.kozuchi.net/2019/07/15/hosting-update/</link>
       </item>
     
   </channel>
