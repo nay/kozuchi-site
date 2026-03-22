@@ -1,6 +1,7 @@
 title: 小槌.net
 author: Yasuko Ohba
 url: "https://www.kozuchi.net"
+timezone: Asia/Tokyo
 exclude:
   - README.md
   - vendor
@@ -14,7 +15,6 @@ defaults:
 
 theme: jekyll-whiteglass
 plugins:
-  - jekyll-remote-theme
   - jekyll-archives
   - jekyll-paginate
   - jekyll-sitemap
