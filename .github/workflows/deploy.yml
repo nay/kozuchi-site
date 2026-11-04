@@ -4,6 +4,14 @@ on:
   push:
     branches:
       - jekyll
+    # gem・Ruby の更新や CI の設定だけでは、サイトの中身は変わらないので公開しない
+    # （次に記事などを公開するときに一緒に反映される）
+    paths-ignore:
+      - Gemfile.lock
+      - .ruby-version
+      - .github/**
+  # 記事を足さずに公開し直したいとき（テーマの更新を先に出すときなど）に手動で動かす
+  workflow_dispatch:
 
 permissions:
   contents: read
